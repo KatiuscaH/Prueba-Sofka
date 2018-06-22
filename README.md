@@ -26,7 +26,6 @@ Para ejecutar el código debe ejecutarse lo siguiente inicialmente
 ```
 npm install 
 npm start
-
 ```
 
 Ejecutar el archivo LCD.js

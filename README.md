@@ -58,3 +58,10 @@ Ingrese los números (X,XXX), donde el primero es el tamaño y después de la co
 Finalice con 0,0> 0,0
 Software Finalizado
 ```
+# Test
+
+Para ejecutar el test
+
+```
+npm run test
+```

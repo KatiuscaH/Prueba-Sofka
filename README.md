@@ -34,7 +34,8 @@ Ejecutar el archivo LCD.js
 node lcd.js
 ```
 ```
-Ingrese los números (X,XXX), donde el primero es el tamaño y después de la coma el número a mostrar. Finalice con 0,0> 2,12345
+Ingrese los números (X,XXX), donde el primero es el tamaño y después de la coma el número a mostrar. 
+Finalice con 0,0> 2,12345
            - -     - -             - -
        |       |       | |     | |
        |       |       | |     | |
@@ -42,7 +43,8 @@ Ingrese los números (X,XXX), donde el primero es el tamaño y después de la co
        | |             |       |       |
        | |             |       |       |          
            - -     - -             - -
-Ingrese los números (X,XXX), donde el primero es el tamaño y después de la coma el número a mostrar. Finalice con 0,0> 3,67890
+Ingrese los números (X,XXX), donde el primero es el tamaño y después de la coma el número a mostrar.
+Finalice con 0,0> 3,67890
    - - -     - - -     - - -     - - -     - - -
  |                 | |       | |       | |       |
  |                 | |       | |       | |       |
@@ -52,6 +54,7 @@ Ingrese los números (X,XXX), donde el primero es el tamaño y después de la co
  |       |         | |       |         | |       |
  |       |         | |       |         | |       |
    - - -               - - -     - - -     - - -
-Ingrese los números (X,XXX), donde el primero es el tamaño y después de la coma el número a mostrar. Finalice con 0,0> 0,0
+Ingrese los números (X,XXX), donde el primero es el tamaño y después de la coma el número a mostrar. 
+Finalice con 0,0> 0,0
 Software Finalizado
 ```

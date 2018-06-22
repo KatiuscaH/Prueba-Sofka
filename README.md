@@ -16,3 +16,50 @@
 - Imprimir los números especificados usando el carácter “-“ para los caracteres horizontales, y “|” para los verticales.
 - Cada dígito debe ocupar exactamente size+2 columnas y 2*size + 3 filas.
 - Entre cada impresión debe haber una línea blanca.
+
+-----
+
+#Run code
+
+Para ejecutar el código debe ejecutarse lo siguiente inicialmente
+
+```
+npm install 
+npm start
+
+```
+
+Ejecutar el archivo LCD.js
+```
+node lcd.js
+```
+```
+Ingrese los números (X,XXX), donde el primero es el tamaño y después de la coma el número a mostrar. Finalice con
+0,0> 1,123456789
+         -     -           -     -     -     -     -
+     |     |     | |   | |     |         | |   | |   |
+         -     -     -     -     -           -     -
+     | |         |     |     | |   |     | |   |     |
+         -     -           -     -           -     -
+Ingrese los números (X,XXX), donde el primero es el tamaño y después de la coma el número a mostrar. Finalice con
+0,0> clear
+Debe tener la forma X,XXXIngrese los números (X,XXX), donde el primero es el tamaño y después de la coma el número a mostrar. Finalice con 0,0> ,20,0> 0,0
+Software Finalizado
+PS C:\Users\upkat\Desktop\LCD-Prueba-Sofka\LCD-Prueba-Sofka\src> node lcd.js
+Ingrese los números (X,XXX), donde el primero es el tamaño y después de la coma el número a mostrar. Finalice con 0,
+0,0> 2,12345
+           - -     - -             - -                                                                              0> h1       |       |       | |     | |
+       |       |       | |     | |                                                                                0,           - -     - -     - -     - -                                                                              0> 1,       | |             |       |       |
+       | |             |       |       |
+           - -     - -             - -
+Ingrese los números (X,XXX), donde el primero es el tamaño y después de la coma el número a mostrar. Finalice con
+0,0> 3,67890                                                                                                      0,   - - -     - - -     - - -     - - -     - - -
+ |                 | |       | |       | |       |                                                                  0> 0, |                 | |       | |       | |       |                                                                0, |                 | |       | |       | |       |
+   - - -               - - -     - - -
+ |       |         | |       |         | |       |
+ |       |         | |       |         | |       |
+ |       |         | |       |         | |       |
+   - - -               - - -     - - -     - - -
+Ingrese los números (X,XXX), donde el primero es el tamaño y después de la coma el número a mostrar. Finalice con 0,0,0> 0,0
+Software Finalizado
+```
